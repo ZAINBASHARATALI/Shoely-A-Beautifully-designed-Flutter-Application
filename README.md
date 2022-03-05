@@ -1,7 +1,6 @@
 # Shoely, A beautiful Flutter App UI Design
 
-A new Flutter project.
-
+A beautifully designed and developed mobile application Shoely made in Love with Flutter by Google.
 ## Getting Started
 
 This project is a starting point for a Flutter application.
