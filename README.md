@@ -24,3 +24,7 @@ samples, guidance on mobile development, and a full API reference.
 
 
 
+
+
+
+This App is Inspired by design from @OmarJ9
